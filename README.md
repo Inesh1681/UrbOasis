@@ -21,14 +21,16 @@ when to follow up, when to escalate and when to file an RTI, with each document 
 
 ## Run locally
 
-It's one static file. Serve the folder with any static server, for example:
+It's two static files: `index.html` (the app) and `pitch.html` (for judges and investors). From the repo folder, serve it with any static server, for example:
 
 ```bash
-npx serve urboasis
+npx serve .
 ```
 
-Deploy by uploading `index.html` to Vercel, Netlify, GitHub Pages or Cloudflare Pages. It needs
+Deploy by uploading the folder to Vercel, Netlify, GitHub Pages or Cloudflare Pages. It needs
 HTTPS for "Use my location".
+
+Everything that still needs checking against official sources is listed in [TODO-VERIFY.md](TODO-VERIFY.md).
 
 ## Before going public
 
