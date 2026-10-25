@@ -9,7 +9,7 @@ when to follow up, when to escalate and when to file an RTI, with each document 
 - **Report in four steps:** category (English + Kannada), pin on the map (tap, GPS, place search, or
   the GPS tag inside a photo), landmark and photo, then a generated complaint with a strength score.
 - **Tracks every complaint against a fix window** per category, and moves it through
-  *Not filed → Waiting → Follow up → Escalate → RTI → Fixed*.
+  *Not filed → Waiting → Follow up → Escalate → RTI → Fixed.
 - **Writes the documents:** follow-up, escalation letter addressed to the right officer, X post, and
   an RTI application under Section 6(1) with the five questions that get a written answer.
 - **Community board:** a public list of issues ranked by resident votes (one vote per Google account,
